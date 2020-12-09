@@ -1,0 +1,4 @@
+Collages.driver = oracle.jdbc.driver.OracleDriver
+Collages.url = jdbc:oracle:thin:@localhost:1521:xe
+Collages.username = hr
+Collages.password = raja1999
